@@ -1,1 +1,1 @@
-# LinkedIn-Puzzle-Solver-Sudoku
+# LinkedIn-Puzzle-Solver_Sudoku
